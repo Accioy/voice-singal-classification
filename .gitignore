@@ -1,1 +1,4 @@
 ALL_hd_random/
+.ipynb_checkpoints/
+.vscode/
+.idea/

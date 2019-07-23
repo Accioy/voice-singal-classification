@@ -1,0 +1,3 @@
+ski有个warning，UserWarning: Float image out of standard range;
+displaying image with stretched contrast.
+plt没有，但实际上好像ski比plt画的更好……plt好像丢失了一些信息的样子
